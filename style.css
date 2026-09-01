@@ -1,2 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f5f5f5;
+    color: #333;
+}
 
-body{font-family:Arial;max-width:900px;margin:40px auto;padding:20px;background:#f5f5f5}h1{font-size:48px}p{font-size:18px}
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,.1);
+}
+
+h1 {
+    font-size: 48px;
+    color: #2b5d3b;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 30px;
+    color: #2b5d3b;
+}
+
+h3 {
+    margin-top: 25px;
+}
+
+.slogan {
+    font-size: 22px;
+    color: #666;
+    font-style: italic;
+}
+
+.note {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #777;
+}
